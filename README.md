@@ -34,7 +34,7 @@ Esto confirma que estoy en el camino correcto con el desarrollo backend y la arq
 🧱 Parte 2: Mapa personal
 
 ## 💡 Mapa de fortalezas y pasiones
-
+----------------------------
 🔹 Lo que sé hacer bien (habilidades):
 
 ✅ Programar en Django, Spring Boot y React 💻
@@ -49,8 +49,7 @@ Esto confirma que estoy en el camino correcto con el desarrollo backend y la arq
 
 ✅ Aprender rápido nuevas tecnologías 🚀
 
-
-
+----------------------------
 
 ❤️ Lo que disfruto hacer (pasiones):
 
@@ -64,8 +63,7 @@ Esto confirma que estoy en el camino correcto con el desarrollo backend y la arq
 
 🔥 Enseñar y compartir conocimientos 📢📚
 
-
-
+----------------------------
 
 🎯 Lo que me gustaría aprender (curiosidades):
 
@@ -80,8 +78,7 @@ Esto confirma que estoy en el camino correcto con el desarrollo backend y la arq
 🤖 Automatización de procesos en backend 🤯
 
 
-
-
+----------------------------
 🌟 Áreas del software que más se relacionan:
 
 💡 Backend Development (Django, Spring Boot, APIs, bases de datos) 🔙💾
